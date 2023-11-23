@@ -30,27 +30,3 @@ h1{
 .bold{
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-div a {
-    background-color: azure;
-    padding: 20px;
-}
-
-a > h1 {
-    background-color: aquamarine;
-    color:hotpink;
-}
-
-
-a + a {
-    background-color: darkkhaki;
-}
