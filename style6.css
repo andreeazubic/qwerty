@@ -1,0 +1,20 @@
+@keyframes my-animation {
+   from {background-color: aqua;}
+   to {background-color:gold;}
+}
+
+
+
+body {
+   animation: my-animation 5s forwards;
+}
+
+
+img {
+   width: 500px;
+   transition: 0,5s;
+}
+
+img:active {
+   width: 800px;
+}
