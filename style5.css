@@ -26,5 +26,5 @@
 
 img {
    width: 100%;
-   filter: contrast(50%) blur(40%);
+   filter: grayscale (100%) inver(100%);
 }
